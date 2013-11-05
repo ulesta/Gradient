@@ -1,0 +1,1 @@
+Simple Gradient drawing function in Java which takes in the params: startX, startY, endX, endY, int[] color1, int[] color2
